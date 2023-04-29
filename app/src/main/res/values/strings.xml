@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Photo Album (Preview)</string>
+    <string name="display_image">display image</string>
+    <string name="rotate_btn">Rotate</string>
+    <string name="zoom_in_btn">Zoom In</string>
+    <string name="zoom_out_btn">Zoom Out</string>
+</resources>
